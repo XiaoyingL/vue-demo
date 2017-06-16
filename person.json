@@ -1,0 +1,53 @@
+{
+  "info": {
+    "name": "张晓鑫",
+    "nickname": "复方小葵花",
+    "avatar": "http://static.galileo.xiaojukeji.com/static/tms/seller_avatar_256px.jpg"
+  },
+  "case": {
+    "records": [
+      {
+        "authority": "0",
+        "creation_time": "2016-12-04",
+        "address": "中心医院附属二院",
+        "pictureUrl": "http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg?imageView2/1/w/180/h/180",
+        "id": 47
+      },
+      {
+        "authority": "1",
+        "creation_time": "2016-12-05",
+        "address": "中心医院附属一院",
+        "pictureUrl": "http://fuss10.elemecdn.com/b/6c/75bd250e5ba69868f3b1178afbda3jpeg.jpeg?imageView2/1/w/180/h/180",
+        "id": 46
+      },
+      {
+        "authority": "0",
+        "creation_time": "2016-12-06",
+        "address": "中心医院附属三院",
+        "pictureUrl": "http://fuss10.elemecdn.com/f/96/3d608c5811bc2d902fc9ab9a5baa7jpeg.jpeg?imageView2/1/w/180/h/180",
+        "id": 45
+      },
+      {
+        "authority": "1",
+        "creation_time": "2016-12-07",
+        "address": "中心医院",
+        "pictureUrl": "http://fuss10.elemecdn.com/6/ad/779f8620ff49f701cd4c58f6448b6jpeg.jpeg?imageView2/1/w/180/h/180",
+        "id": 44
+      }
+    ]
+  },
+  "mission": [
+    {
+      "type": 0,
+      "description": "走路"
+    },
+    {
+      "type": 1,
+      "description": "记录血压"
+    },
+    {
+      "type": 2,
+      "description": "记录血糖"
+    }
+  ]
+}
